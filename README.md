@@ -3,7 +3,7 @@ Personal dash_bio package testdrive
 
 ## Installation (Windows 10)
 
-Git clone or download repo to preferred location aand go to it
+Git clone or download repo to preferred location and go to it
 ```bash
 $ git clone https://github.com/SimonasJocys/biodash_sandbox.git
 $ cd biodash_sandbox
